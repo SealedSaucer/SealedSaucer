@@ -1,11 +1,11 @@
-### Hi there, I'm [Phantom](https://phantomcodes.ga) 👋
+### Hi there, I'm [Phantom](https://phantom.codes) 👋
 A Passionate Front-End and Back-End Developer
 
-[![Website](https://img.shields.io/website?label=phantomcodes.ga&style=for-the-badge&url=https%3A%2F%2Fphantomcodes.ga)](https://phantomcodes.ga)
-[![Discord](https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/58zNcgsE9K)
+[![Website](https://img.shields.io/website?label=phantom.codes&style=for-the-badge&url=https%3A%2F%2Fphantom.codes)](https://phantom.codes/support)
+[![Discord](https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/e2pKn8kP9R)
 
 - 😄 Pronouns: He/Him
-- 📫 How to reach me? [Click Me!](https://phantomcodes.ga/links)
+- 📫 How to reach me? [Click Me!](https://phantom.codes/links)
 
 ---
 
@@ -16,7 +16,7 @@ A Passionate Front-End and Back-End Developer
 
 ### Contact me : 
 
-[<img align="left" alt="phantomcodes.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://phantomcodes.ga)
+[<img align="left" alt="phantom.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://phantom.codes)
 [<img align="left" alt="Phantom | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/SealedSaucer)
 <a href="https://dsc.gg/phantom">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
