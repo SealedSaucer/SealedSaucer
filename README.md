@@ -2,10 +2,10 @@
 A Passionate Front-End and Back-End Developer
 
 [![Website](https://img.shields.io/website?label=phantom.codes&style=for-the-badge&url=https%3A%2F%2Fphantom.codes)](https://phantom.codes)
-[![Discord](https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/e2pKn8kP9R)
+[![Discord](https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/7RCAjSsFzU)
 
 - 😄 Pronouns: He/Him
-- 📫 How to reach me? [Click Me!](https://phantom.codes/links)
+- 📫 How to reach me? [Click Me!](https://linktr.ee/SealedSaucer)
 
 ---
 
@@ -26,7 +26,7 @@ A Passionate Front-End and Back-End Developer
 </a>
 
 [<img align="left" alt="Phantom | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" />](https://www.linkedin.com/in/SealedSaucer)
-[<img align="left" alt="Phantom | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />](https://www.instagram.com/SealedSaucer/)
+[<img align="left" alt="Phantom | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/SealedSaucer/)
 
 <a href="https://www.reddit.com/user/SealedSaucer">
   <img align="left" alt="Reddit" width="23px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Reddit_colored_svg-128.png" />
