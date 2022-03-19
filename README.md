@@ -55,4 +55,6 @@ A Passionate Front-End and Back-End Developer
 </br>
 <img align="center" alt="Phantom's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=SealedSaucer&&show_icons=true&theme=tokyonight&layout=compact" />
 </br>
+</br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SealedSaucer&show_icons=true&theme=tokyonight&layout=compact" alt="SealedSaucer" />
+</details>
