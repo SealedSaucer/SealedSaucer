@@ -53,8 +53,10 @@ A Passionate Front-End and Back-End Developer
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
-<img align="center" alt="Phantom's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=SealedSaucer&&show_icons=true&theme=tokyonight&layout=compact" />
+<a href="https://github.com/SealedSaucer">
+<img align="center" alt="Phantom's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=SealedSaucer&&show_icons=true&theme=tokyonight&layout=compact"/>
 </br>
 </br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SealedSaucer&show_icons=true&theme=tokyonight&layout=compact" alt="SealedSaucer" />
+</a>
 </details>
