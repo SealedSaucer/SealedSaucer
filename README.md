@@ -1,4 +1,4 @@
-### Hi there, I'm [Phantom](https://phantom.codes) 👋
+### Hi there, I'm [Phantom](https://phantom.is-a.dev) 👋
 A Passionate Full-Stack Developer
 
 [![Website](https://img.shields.io/website?label=phantom.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fphantom.codes)](https://phantom.is-a.dev/support)
