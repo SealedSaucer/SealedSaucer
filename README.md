@@ -1,7 +1,7 @@
 ### Hi there, I'm [Phantom](https://phantom.codes) 👋
 A Passionate Full-Stack Developer
 
-[![Website](https://img.shields.io/website?label=phantom.codes&style=for-the-badge&url=https%3A%2F%2Fphantom.codes)](https://phantom.codes)
+[![Website](https://img.shields.io/website?label=phantom.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fphantom.codes)](https://phantom.is-a.dev/support)
 [![Discord](https://img.shields.io/discord/731756511138807879?label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/FjvpfHYt7H)
 
 - 😄 Pronouns: He/Him
