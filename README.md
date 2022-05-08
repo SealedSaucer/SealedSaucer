@@ -16,7 +16,7 @@ A Passionate Full-Stack Developer
 
 ### Contact me : 
 
-[<img align="left" alt="phantom.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://phantom.codes)
+[<img align="left" alt="phantom.is-a.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://phantom.is-a.dev)
 [<img align="left" alt="Phantom | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/SealedSaucer)
 <a href="https://dsc.gg/phantom">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
