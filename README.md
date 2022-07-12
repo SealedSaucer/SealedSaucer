@@ -24,8 +24,6 @@ A Passionate Full-Stack Developer
 <a href="https://twitter.com/SealedSaucer">
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
-[<img align="left" alt="Phantom | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" />](https://www.linkedin.com/in/SealedSaucer)
 [<img align="left" alt="Phantom | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/SealedSaucer/)
 
 <a href="https://www.reddit.com/user/SealedSaucer">
@@ -36,15 +34,15 @@ A Passionate Full-Stack Developer
 
 ### Languages and Tools : 
 
-[<img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />](https://www.python.org/)
-[<img align="left" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
-[<img align="left" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />](https://www.w3schools.com/css/)
-[<img align="left" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
-[<img align="left" alt="Node.js" width="26px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
-[<img align="left" alt="Java" width="26px" src="https://skillicons.dev/icons?i=java" />](https://java.com/)
-[<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
+[<img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />](https://python.org)
+[<img align="left" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />](https://w3.org/html)
+[<img align="left" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />](https://w3schools.com/css)
+[<img align="left" alt="JavaScript" width="26px" src="https://skillicons.dev/icons?i=js" />](https://javascript.com)
+[<img align="left" alt="Node.js" width="26px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en)
+[<img align="left" alt="Java" width="26px" src="https://skillicons.dev/icons?i=java" />](https://java.com)
+[<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" />](https://git-scm.com)
+[<img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" />](https://github.com)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com)
 <br />
 <br />
 
