@@ -12,13 +12,13 @@
 <h3>Socials</h3>
 
 <div>
-    <a href="https://phantom.is-a.dev"><img src="https://i.imgur.com/HcY0gIm.png" height="23" width="23"></a>
+    <a href="https://phantom.is-a.dev"><img src="https://i.imgur.com/HcY0gIm.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://youtube.com/@SealedSaucer"><img src="https://i.imgur.com/WLd5nyq.png" height="23" width="23"></a>
+    <a href="https://youtube.com/@SealedSaucer"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://dsc.gg/phantom"><img src="https://i.imgur.com/CZU39q2.png" height="23" width="23"></a>
+    <a href="https://dsc.gg/phantom"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://instagram.com/SealedSaucer"><img src="https://i.imgur.com/SCTr4il.png" height="23" width="23"></a>
+    <a href="https://instagram.com/SealedSaucer"><img src="https://i.imgur.com/SCTr4il.png" height="25" width="25"></a>
 </div>
 
 <h3>Languages and Tools</h3>
