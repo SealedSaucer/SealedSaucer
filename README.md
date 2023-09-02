@@ -15,7 +15,7 @@
     &nbsp;
     <a href="https://youtube.com/@SealedSaucer"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://dsc.gg/phantom"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
+    <a href="https://phantom.is-a.dev/verify"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://instagram.com/SealedSaucer"><img src="https://i.imgur.com/SCTr4il.png" height="25" width="25"></a>
 </div>
