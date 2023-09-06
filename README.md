@@ -5,6 +5,7 @@
   <br><br>
   <a href="https://phantom.is-a.dev"><img src="https://img.shields.io/website?label=phantom.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fphantom.is-a.dev"></a>
   <a href="https://phantom.sellix.io"><img src="https://img.shields.io/badge/SELLIX-PHANTOM.SELLIX.IO-5e40e4?style=for-the-badge"></a>
+  <a href="https://phantom.is-a.dev/verify"><img src="https://img.shields.io/badge/CONTACT-click me-09A9AD?style=for-the-badge"></a>
 
 ---
 
