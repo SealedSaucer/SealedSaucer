@@ -1,9 +1,9 @@
 <div id="SealedSaucer" align="center">
-  <h3> Hi there, I'm <a href="https://phantom.is-a.dev">Phantom</a> 👋 </h3>
+  <h3> Hi there, I'm <a href="https://phantom.fr.to">Phantom</a> 👋 </h3>
   <br>
   <a href="https://discord.com/users/243838319291662337"><img height="80px" src="https://discord.c99.nl/widget/theme-4/243838319291662337.png"/></a>
   <br><br>
-  <a href="https://phantom.is-a.dev"><img src="https://img.shields.io/website?label=phantom.is-a.dev&style=for-the-badge&url=https%3A%2F%2Fphantom.is-a.dev"></a>
+  <a href="https://phantom.is-a.dev"><img src="https://img.shields.io/website?label=phantom.fr.to&style=for-the-badge&url=https%3A%2F%2Fphantom.fr.to"></a>
   <a href="https://phantom.sellix.io"><img src="https://img.shields.io/badge/SELLIX-PHANTOM.SELLIX.IO-5e40e4?style=for-the-badge"></a>
   <a href="https://phantom.is-a.dev/verify"><img src="https://img.shields.io/badge/contact-click me-05babf?style=for-the-badge"></a>
 
@@ -12,11 +12,11 @@
 <h3>Socials</h3>
 
 <div>
-    <a href="https://phantom.is-a.dev"><img src="https://i.imgur.com/HcY0gIm.png" height="25" width="25"></a>
+    <a href="https://phantom.fr.to"><img src="https://i.imgur.com/HcY0gIm.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://youtube.com/@SealedSaucer"><img src="https://i.imgur.com/WLd5nyq.png" height="25" width="25"></a>
     &nbsp;
-    <a href="https://phantom.is-a.dev/verify"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
+    <a href="https://phantom.fr.to/verify"><img src="https://i.imgur.com/CZU39q2.png" height="25" width="25"></a>
     &nbsp;
     <a href="https://instagram.com/SealedSaucer"><img src="https://i.imgur.com/SCTr4il.png" height="25" width="25"></a>
 </div>
